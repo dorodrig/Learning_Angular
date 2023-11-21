@@ -1,0 +1,11 @@
+//Tener NodeJs 
+//descargar la ultima version de node
+-nvm install lts
+// se instala el CLI de angular 
+-npm install -g @angular/cli
+// versiones del CLI 
+-ng version 
+//iniciar proyecto 
+- ng new angular17-expenses-tracker
+//ejecutando el proyecto
+ng serve
